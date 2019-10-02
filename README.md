@@ -23,3 +23,5 @@
 #    In file, look for the upper right corner of the file: History in GitHub to look at the previous commits.
 
 #    You go to clone or download the zip link, go to Check out from Version Control, click on Git, and paste the link on the cloned repository.
+#    , space after comma = style
+#    If you didn’t commit and push and press push instead, then you do it again only with commit and push.
