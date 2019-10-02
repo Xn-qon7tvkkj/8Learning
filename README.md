@@ -24,4 +24,5 @@
 
 #    You go to clone or download the zip link, go to Check out from Version Control, click on Git, and paste the link on the cloned repository.
 #    , space after comma = style
-#    If you didn’t commit and push and press push instead, then you do it again only with commit and push.
+#    If you did not commit and push and press push instead, then you do it again only with commit and push.
+#    Camelcase = carsNotDriven where lowercase, Refactor, Refactor This, and renaming save the new name after changing the old name.
