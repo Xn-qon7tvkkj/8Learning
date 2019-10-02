@@ -28,3 +28,4 @@
 #    Camelcase = carsNotDriven where lowercase, Refactor, Refactor This, and renaming save the new name after changing the old name.
 #    Names = variables
 #    Inside print, the names would be replaced by variables by putting the name in between the commas between a break in the sentence.
+#    You can alter variables.
