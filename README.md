@@ -40,3 +40,5 @@
 #    .format() is the adding strings into () or {}
 #    {1:o} is the integer with other bases.
 #    {} can be replaced by a number or string like {0}, {1}
+#    {0:f} is for floating point
+#    removing characters by (string.strip())

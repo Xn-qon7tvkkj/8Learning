@@ -57,3 +57,6 @@ print("The number {0} is {1:o}"
     .format("square root of 12", 100))
 #    This is different from subtracting two different string values to each other.
 print("{0:f}".format(76.124))
+#   removing character
+string = '      Fun food    '
+print(string.strip('    food'))
