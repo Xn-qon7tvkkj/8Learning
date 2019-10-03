@@ -46,5 +46,5 @@ myHair = "yes, some"
 print("Let's talk about %s." % myName)
 print("He's %d inches tall." % myHeight)
 print("He's got %s eyes and %s hair." % (myEyes, myHair))
-print("His teeth \t are usually %s depending \n on the coffee." % myTeeth)
+print("His teeth \tare usually %s depending \n on the coffee." % myTeeth)
 print("If I add %d and %d, I get %d." % (myAge, myHeight, myAge + myHeight))
