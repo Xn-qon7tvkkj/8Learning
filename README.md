@@ -29,3 +29,21 @@
 #    Names = variables
 #    Inside print, the names would be replaced by variables by putting the name in between the commas between a break in the sentence.
 #    You can alter variables in order to change the sentence/story.
+
+#    More variables
+#    Names can be equal to an “answer or non-number”
+#    %s = can replace the variable by string/name
+#    %d = replace with another number
+#    Next to a %, you can put multiple strings in (). You can also add strings that are equal to numbers.
+#    \t = tab
+#    \n = new line
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
