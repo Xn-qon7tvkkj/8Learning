@@ -48,3 +48,10 @@ print("He's %d inches tall." % myHeight)
 print("He's got %s eyes and %s hair." % (myEyes, myHair))
 print("His teeth \tare usually %s depending \n on the coffee." % myTeeth)
 print("If I add %d and %d, I get %d." % (myAge, myHeight, myAge + myHeight))
+print("This is %X, different from the age." % myAge)
+#    This is syntax.
+print("{0} works with {1}?".format("Fruits", "growth"))
+print("All {} begin with {} {} and {}"
+    .format("food", "eating", "or recycling", "experimenting"))
+print("The number {0} is {1:o}"
+    .format("square root of 12", 100))
