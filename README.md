@@ -37,13 +37,6 @@
 #    Next to a %, you can put multiple strings in (). You can also add strings that are equal to numbers.
 #    \t = tab
 #    \n = new line
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
+#    .format() is the adding strings into () or {}
+#    {1:o} is the integer with other bases.
+#    {} can be replaced by a number or string like {0}, {1}
