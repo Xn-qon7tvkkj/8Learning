@@ -55,3 +55,5 @@ print("All {} begin with {} {} and {}"
     .format("food", "eating", "or recycling", "experimenting"))
 print("The number {0} is {1:o}"
     .format("square root of 12", 100))
+#    This is different from subtracting two different string values to each other.
+print("{0:f}".format(76.124))
